@@ -16,6 +16,7 @@ I love programming and problem solving and have 4 years of experience
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
+![JavaScript]([https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E))
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vuedotjs)
